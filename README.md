@@ -1,0 +1,1 @@
+Java Wordle code built with gradle. Creates a fully functioning wordle game with a pre developed dictionary. *Names are in the dictionary if nothing happens when enter is hit the word is not recognized.
